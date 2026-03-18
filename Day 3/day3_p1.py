@@ -8,3 +8,9 @@ square = num * num
 cube = num * num * num
 print("Square:", square)
 print("Cube:", cube)
+
+
+# output:
+# Enter a number: 6
+# Square: 36
+# Cube: 216
