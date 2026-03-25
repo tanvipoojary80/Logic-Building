@@ -1,0 +1,19 @@
+# Pattern 9
+# 1 2 3 4 5  
+# 1 2 3 4  
+# 1 2 3  
+# 1 2  
+# 1  
+
+n = 5
+for i in range(n, 0, -1):  # start from n down to 1
+    for j in range(1, i + 1):
+        print(j, end=" ")
+    print()
+
+# output:
+# 1 2 3 4 5 
+# 1 2 3 4 
+# 1 2 3
+# 1 2
+# 1
