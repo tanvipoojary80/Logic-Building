@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Write a Program to Find the LCM of Two Numbers:
 # Write a program where the user enters two numbers, and the program calculates their least common multiple (LCM). For example:
 # Input: Enter two numbers: 4, 6
